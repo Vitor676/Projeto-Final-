@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Projeto Performace\\Loja de Games\\Loja de Games.csproj",
-      "projectName": "Loja de Games",
-      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Projeto Performace\\Loja de Games\\Loja de Games.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Projeto Performace\\Projeto_final_bloco_1\\Projeto_final_bloco_1.csproj",
+      "projectName": "Projeto_final_bloco_1",
+      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Projeto Performace\\Projeto_final_bloco_1\\Projeto_final_bloco_1.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Projeto Performace\\Loja de Games\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Projeto Performace\\Projeto_final_bloco_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
